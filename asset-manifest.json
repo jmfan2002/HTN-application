@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/HTN-application/static/css/main.a44d7bb3.chunk.css",
+    "main.js": "/HTN-application/static/js/main.b9b46ccf.chunk.js",
+    "main.js.map": "/HTN-application/static/js/main.b9b46ccf.chunk.js.map",
+    "runtime~main.js": "/HTN-application/static/js/runtime~main.89009677.js",
+    "runtime~main.js.map": "/HTN-application/static/js/runtime~main.89009677.js.map",
+    "static/css/2.68a81a89.chunk.css": "/HTN-application/static/css/2.68a81a89.chunk.css",
+    "static/js/2.ea2bc70f.chunk.js": "/HTN-application/static/js/2.ea2bc70f.chunk.js",
+    "static/js/2.ea2bc70f.chunk.js.map": "/HTN-application/static/js/2.ea2bc70f.chunk.js.map",
+    "static/js/3.f01659bd.chunk.js": "/HTN-application/static/js/3.f01659bd.chunk.js",
+    "static/js/3.f01659bd.chunk.js.map": "/HTN-application/static/js/3.f01659bd.chunk.js.map",
+    "index.html": "/HTN-application/index.html",
+    "precache-manifest.674ad9292d9d2bb6fce03844a4a6027b.js": "/HTN-application/precache-manifest.674ad9292d9d2bb6fce03844a4a6027b.js",
+    "service-worker.js": "/HTN-application/service-worker.js",
+    "static/css/2.68a81a89.chunk.css.map": "/HTN-application/static/css/2.68a81a89.chunk.css.map",
+    "static/css/main.a44d7bb3.chunk.css.map": "/HTN-application/static/css/main.a44d7bb3.chunk.css.map",
+    "static/media/htn_logo.png": "/HTN-application/static/media/htn_logo.9bc0fd5e.png"
+  }
+}
