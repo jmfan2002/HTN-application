@@ -11,7 +11,7 @@ interface SearchProps {
 
 const Searchbar = ({ searchQuery, setSearchQuery }: SearchProps) => {
   return (
-    <Form action="/" method="get">
+    <Form action="/HTN-application/" method="get">
       <Row className="align-items-center">
         <Col sm={20}>
           <Form.Group>
