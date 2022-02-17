@@ -17,4 +17,5 @@ Currently there's been little/no security initiatives implemented into the site,
 A useful feature for users of the app would be to implement a schedule and notification ability, so that hackers could view a timeline of when events are happening, and also subscribe to notifications (maybe through email, or a bell icon on the site) to ensure they can attend the events they're most interested in.
 
 **Any other thoughts you have (not limited to the previous questions).**
+
 While I'm not against writing comments and often add them when appropriate, I prefer to write my code in a very readable way so that the code can be understandable on its own, with just a few comments for clarity, separation, etc. I think I succeeded in doing so here, and I'm quite happy with how it turned out. I learned a lot on this project, learning various different techniques that can be done with React and Bootstrap. I'm also really glad I spent time learning Typescript, it's features are so useful it's hard to imagine going without them.
