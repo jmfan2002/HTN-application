@@ -42,7 +42,7 @@ const LoginModal = ({ setEmail, setPassword }: LoginProps) => {
 					</Form>
 				</Modal.Body>
 				<Modal.Footer>
-					<Button variant="primary" onClick={submitForm}>
+					<Button variant="primary" onClick={() => { submitForm(); handleClose(); }}>
 						Log In
 					</Button>
 				</Modal.Footer>

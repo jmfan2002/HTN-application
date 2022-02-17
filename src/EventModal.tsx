@@ -74,9 +74,9 @@ const EventModal = ({ id, setEventTypeFilter, closeParentModal, btnText }: Event
         </Button>}
       <Modal show={show} onHide={handleClose} >
         <Modal.Body>
-          <Modal.Header closeButton>{event.name}</Modal.Header>
+          <Modal.Header className="bold" closeButton>{event.name}</Modal.Header>
           <Modal.Body>{event.description}
-            {event.speakers &&
+            {event.speakers.length > 0 &&
               <>
                 <p className="bold">Speakers:</p>
                 <ListGroup variant="flush">
@@ -104,8 +104,8 @@ const EventModal = ({ id, setEventTypeFilter, closeParentModal, btnText }: Event
                 </ListGroup>
               </>}
             {event.public_url &&
-              <Button href={event.public_url} variant="primary" className='m-2'>Event link</Button>}
-            <Button href={event.private_url} variant="primary" className='m-2'>Hacker link</Button>
+              <Button href={event.public_url} variant="primary" className='mr-2'>Event link</Button>}
+            <Button href={event.private_url} variant="primary">Hacker link</Button>
           </Modal.Body>
         </Modal.Body>
       </Modal>
